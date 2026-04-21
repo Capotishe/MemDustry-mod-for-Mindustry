@@ -1,0 +1,12 @@
+name: "mem-mindustry"
+displayName: "MemDustry"
+subtitle: "replaces default SFXs with memes"
+author: "[#0096FF]Capotishe"
+description: "
+This mod replaces set by default sound effects with some audio-memes.
+[orange]I made this mod because mod like this doesn't exist.
+[red]This mod is under construction!
+"
+version: beta 0.1
+minGameVersion: 157.2
+hidden: true
